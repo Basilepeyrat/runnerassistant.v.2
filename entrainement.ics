@@ -1,11 +1,724 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:ics.py - http://git.io/lLljaA
+CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DESCRIPTION:20 min échauffement\n3x10 min à 85% FTP avec 5 min récup\n10 min retour au calme
-DURATION:PT1H
-DTSTART:20250720T180000Z
-SUMMARY:Séance vélo seuil
-UID:0cf64cf3-33ae-4859-b12a-31749604730e@0cf6.org
+DTSTART;VALUE=DATE:20250718
+SUMMARY:Natation
+DESCRIPTION:Endurance 3x500m à allure 100m (~1'15) R: 45s
 END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250719
+SUMMARY:Course
+DESCRIPTION:Endurance 50 min à 70% FCM (~6'30/km)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250720
+SUMMARY:Natation
+DESCRIPTION:Technique 8x100m éducatifs (crawl, POLO, un bras) R: 30s
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250721
+SUMMARY:Course
+DESCRIPTION:Fractionné 8x400m à allure 10k (~5'30/km) R: 1'30
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250722
+SUMMARY:Natation
+DESCRIPTION:Fractionné 10x100m à 95% allure 100m R: 30s
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250718
+SUMMARY:Renforcement/Mobilité quotidienne
+DESCRIPTION:Séance de renforcement musculaire + mobilité (20-30 min, gainage, jambes, dos, étirements)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250719
+SUMMARY:Renforcement/Mobilité quotidienne
+DESCRIPTION:Séance de renforcement musculaire + mobilité (20-30 min, gainage, jambes, dos, étirements)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250720
+SUMMARY:Renforcement/Mobilité quotidienne
+DESCRIPTION:Séance de renforcement musculaire + mobilité (20-30 min, gainage, jambes, dos, étirements)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250721
+SUMMARY:Renforcement/Mobilité quotidienne
+DESCRIPTION:Séance de renforcement musculaire + mobilité (20-30 min, gainage, jambes, dos, étirements)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250722
+SUMMARY:Renforcement/Mobilité quotidienne
+DESCRIPTION:Séance de renforcement musculaire + mobilité (20-30 min, gainage, jambes, dos, étirements)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250723
+SUMMARY:Renforcement/Mobilité quotidienne
+DESCRIPTION:Séance de renforcement musculaire + mobilité (20-30 min, gainage, jambes, dos, étirements)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250724
+SUMMARY:Renforcement/Mobilité quotidienne
+DESCRIPTION:Séance de renforcement musculaire + mobilité (20-30 min, gainage, jambes, dos, étirements)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250723
+SUMMARY:Natation
+DESCRIPTION:Endurance 3x500m à allure 100m (~1'15) R: 45s
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250724
+SUMMARY:Course
+DESCRIPTION:Endurance 50 min à 70% FCM (~6'30/km)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250725
+SUMMARY:Natation
+DESCRIPTION:Technique 8x100m éducatifs (crawl, POLO, un bras) R: 30s
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250726
+SUMMARY:Vélo
+DESCRIPTION:Sortie longue 1h30 à 60-70% FTP
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250727
+SUMMARY:Course
+DESCRIPTION:Fractionné 8x400m à allure 10k (~5'30/km) R: 1'30
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250723
+SUMMARY:Renforcement/Mobilité quotidienne
+DESCRIPTION:Séance de renforcement musculaire + mobilité (20-30 min, gainage, jambes, dos, étirements)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250724
+SUMMARY:Renforcement/Mobilité quotidienne
+DESCRIPTION:Séance de renforcement musculaire + mobilité (20-30 min, gainage, jambes, dos, étirements)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250725
+SUMMARY:Renforcement/Mobilité quotidienne
+DESCRIPTION:Séance de renforcement musculaire + mobilité (20-30 min, gainage, jambes, dos, étirements)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250726
+SUMMARY:Renforcement/Mobilité quotidienne
+DESCRIPTION:Séance de renforcement musculaire + mobilité (20-30 min, gainage, jambes, dos, étirements)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250727
+SUMMARY:Renforcement/Mobilité quotidienne
+DESCRIPTION:Séance de renforcement musculaire + mobilité (20-30 min, gainage, jambes, dos, étirements)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250728
+SUMMARY:Renforcement/Mobilité quotidienne
+DESCRIPTION:Séance de renforcement musculaire + mobilité (20-30 min, gainage, jambes, dos, étirements)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250729
+SUMMARY:Renforcement/Mobilité quotidienne
+DESCRIPTION:Séance de renforcement musculaire + mobilité (20-30 min, gainage, jambes, dos, étirements)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250728
+SUMMARY:Natation
+DESCRIPTION:Endurance 3x500m à allure 100m (~1'15) R: 45s
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250729
+SUMMARY:Course
+DESCRIPTION:Endurance 50 min à 70% FCM (~6'30/km)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250730
+SUMMARY:Vélo
+DESCRIPTION:Sortie longue 1h30 à 60-70% FTP
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250731
+SUMMARY:Natation
+DESCRIPTION:Technique 8x100m éducatifs (crawl, POLO, un bras) R: 30s
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250801
+SUMMARY:Course
+DESCRIPTION:Fractionné 8x400m à allure 10k (~5'30/km) R: 1'30
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250728
+SUMMARY:Renforcement/Mobilité quotidienne
+DESCRIPTION:Séance de renforcement musculaire + mobilité (20-30 min, gainage, jambes, dos, étirements)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250729
+SUMMARY:Renforcement/Mobilité quotidienne
+DESCRIPTION:Séance de renforcement musculaire + mobilité (20-30 min, gainage, jambes, dos, étirements)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250730
+SUMMARY:Renforcement/Mobilité quotidienne
+DESCRIPTION:Séance de renforcement musculaire + mobilité (20-30 min, gainage, jambes, dos, étirements)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250731
+SUMMARY:Renforcement/Mobilité quotidienne
+DESCRIPTION:Séance de renforcement musculaire + mobilité (20-30 min, gainage, jambes, dos, étirements)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250801
+SUMMARY:Renforcement/Mobilité quotidienne
+DESCRIPTION:Séance de renforcement musculaire + mobilité (20-30 min, gainage, jambes, dos, étirements)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250802
+SUMMARY:Renforcement/Mobilité quotidienne
+DESCRIPTION:Séance de renforcement musculaire + mobilité (20-30 min, gainage, jambes, dos, étirements)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250803
+SUMMARY:Renforcement/Mobilité quotidienne
+DESCRIPTION:Séance de renforcement musculaire + mobilité (20-30 min, gainage, jambes, dos, étirements)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250802
+SUMMARY:Natation
+DESCRIPTION:Endurance 3x500m à allure 100m (~1'15) R: 45s
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250803
+SUMMARY:Course
+DESCRIPTION:Endurance 50 min à 70% FCM (~6'30/km)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250804
+SUMMARY:Vélo
+DESCRIPTION:Sortie longue 1h30 à 60-70% FTP
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250805
+SUMMARY:Natation
+DESCRIPTION:Technique 8x100m éducatifs (crawl, POLO, un bras) R: 30s
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250806
+SUMMARY:Course
+DESCRIPTION:Fractionné 8x400m à allure 10k (~5'30/km) R: 1'30
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250802
+SUMMARY:Renforcement/Mobilité quotidienne
+DESCRIPTION:Séance de renforcement musculaire + mobilité (20-30 min, gainage, jambes, dos, étirements)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250803
+SUMMARY:Renforcement/Mobilité quotidienne
+DESCRIPTION:Séance de renforcement musculaire + mobilité (20-30 min, gainage, jambes, dos, étirements)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250804
+SUMMARY:Renforcement/Mobilité quotidienne
+DESCRIPTION:Séance de renforcement musculaire + mobilité (20-30 min, gainage, jambes, dos, étirements)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250805
+SUMMARY:Renforcement/Mobilité quotidienne
+DESCRIPTION:Séance de renforcement musculaire + mobilité (20-30 min, gainage, jambes, dos, étirements)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250806
+SUMMARY:Renforcement/Mobilité quotidienne
+DESCRIPTION:Séance de renforcement musculaire + mobilité (20-30 min, gainage, jambes, dos, étirements)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250807
+SUMMARY:Renforcement/Mobilité quotidienne
+DESCRIPTION:Séance de renforcement musculaire + mobilité (20-30 min, gainage, jambes, dos, étirements)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250808
+SUMMARY:Renforcement/Mobilité quotidienne
+DESCRIPTION:Séance de renforcement musculaire + mobilité (20-30 min, gainage, jambes, dos, étirements)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250807
+SUMMARY:Natation
+DESCRIPTION:Endurance 3x500m à allure 100m (~1'15) R: 45s
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250808
+SUMMARY:Course
+DESCRIPTION:Endurance 50 min à 70% FCM (~6'30/km)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250809
+SUMMARY:Natation
+DESCRIPTION:Technique 8x100m éducatifs (crawl, POLO, un bras) R: 30s
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250810
+SUMMARY:Course
+DESCRIPTION:Fractionné 8x400m à allure 10k (~5'30/km) R: 1'30
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250811
+SUMMARY:Natation
+DESCRIPTION:Fractionné 10x100m à 95% allure 100m R: 30s
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250807
+SUMMARY:Renforcement/Mobilité quotidienne
+DESCRIPTION:Séance de renforcement musculaire + mobilité (20-30 min, gainage, jambes, dos, étirements)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250808
+SUMMARY:Renforcement/Mobilité quotidienne
+DESCRIPTION:Séance de renforcement musculaire + mobilité (20-30 min, gainage, jambes, dos, étirements)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250809
+SUMMARY:Renforcement/Mobilité quotidienne
+DESCRIPTION:Séance de renforcement musculaire + mobilité (20-30 min, gainage, jambes, dos, étirements)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250810
+SUMMARY:Renforcement/Mobilité quotidienne
+DESCRIPTION:Séance de renforcement musculaire + mobilité (20-30 min, gainage, jambes, dos, étirements)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250811
+SUMMARY:Renforcement/Mobilité quotidienne
+DESCRIPTION:Séance de renforcement musculaire + mobilité (20-30 min, gainage, jambes, dos, étirements)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250812
+SUMMARY:Renforcement/Mobilité quotidienne
+DESCRIPTION:Séance de renforcement musculaire + mobilité (20-30 min, gainage, jambes, dos, étirements)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250813
+SUMMARY:Renforcement/Mobilité quotidienne
+DESCRIPTION:Séance de renforcement musculaire + mobilité (20-30 min, gainage, jambes, dos, étirements)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250812
+SUMMARY:Natation
+DESCRIPTION:Endurance 3x500m à allure 100m (~1'15) R: 45s
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250813
+SUMMARY:Course
+DESCRIPTION:Endurance 50 min à 70% FCM (~6'30/km)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250814
+SUMMARY:Natation
+DESCRIPTION:Technique 8x100m éducatifs (crawl, POLO, un bras) R: 30s
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250815
+SUMMARY:Course
+DESCRIPTION:Fractionné 8x400m à allure 10k (~5'30/km) R: 1'30
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250816
+SUMMARY:Natation
+DESCRIPTION:Fractionné 10x100m à 95% allure 100m R: 30s
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250812
+SUMMARY:Renforcement/Mobilité quotidienne
+DESCRIPTION:Séance de renforcement musculaire + mobilité (20-30 min, gainage, jambes, dos, étirements)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250813
+SUMMARY:Renforcement/Mobilité quotidienne
+DESCRIPTION:Séance de renforcement musculaire + mobilité (20-30 min, gainage, jambes, dos, étirements)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250814
+SUMMARY:Renforcement/Mobilité quotidienne
+DESCRIPTION:Séance de renforcement musculaire + mobilité (20-30 min, gainage, jambes, dos, étirements)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250815
+SUMMARY:Renforcement/Mobilité quotidienne
+DESCRIPTION:Séance de renforcement musculaire + mobilité (20-30 min, gainage, jambes, dos, étirements)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250816
+SUMMARY:Renforcement/Mobilité quotidienne
+DESCRIPTION:Séance de renforcement musculaire + mobilité (20-30 min, gainage, jambes, dos, étirements)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250817
+SUMMARY:Renforcement/Mobilité quotidienne
+DESCRIPTION:Séance de renforcement musculaire + mobilité (20-30 min, gainage, jambes, dos, étirements)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250818
+SUMMARY:Renforcement/Mobilité quotidienne
+DESCRIPTION:Séance de renforcement musculaire + mobilité (20-30 min, gainage, jambes, dos, étirements)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250817
+SUMMARY:Natation
+DESCRIPTION:Endurance 3x500m à allure 100m (~1'15) R: 45s
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250818
+SUMMARY:Course
+DESCRIPTION:Endurance 50 min à 70% FCM (~6'30/km)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250819
+SUMMARY:Natation
+DESCRIPTION:Technique 8x100m éducatifs (crawl, POLO, un bras) R: 30s
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250820
+SUMMARY:Course
+DESCRIPTION:Fractionné 8x400m à allure 10k (~5'30/km) R: 1'30
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250821
+SUMMARY:Natation
+DESCRIPTION:Fractionné 10x100m à 95% allure 100m R: 30s
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250817
+SUMMARY:Renforcement/Mobilité quotidienne
+DESCRIPTION:Séance de renforcement musculaire + mobilité (20-30 min, gainage, jambes, dos, étirements)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250818
+SUMMARY:Renforcement/Mobilité quotidienne
+DESCRIPTION:Séance de renforcement musculaire + mobilité (20-30 min, gainage, jambes, dos, étirements)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250819
+SUMMARY:Renforcement/Mobilité quotidienne
+DESCRIPTION:Séance de renforcement musculaire + mobilité (20-30 min, gainage, jambes, dos, étirements)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250820
+SUMMARY:Renforcement/Mobilité quotidienne
+DESCRIPTION:Séance de renforcement musculaire + mobilité (20-30 min, gainage, jambes, dos, étirements)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250821
+SUMMARY:Renforcement/Mobilité quotidienne
+DESCRIPTION:Séance de renforcement musculaire + mobilité (20-30 min, gainage, jambes, dos, étirements)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250822
+SUMMARY:Renforcement/Mobilité quotidienne
+DESCRIPTION:Séance de renforcement musculaire + mobilité (20-30 min, gainage, jambes, dos, étirements)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250823
+SUMMARY:Renforcement/Mobilité quotidienne
+DESCRIPTION:Séance de renforcement musculaire + mobilité (20-30 min, gainage, jambes, dos, étirements)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250822
+SUMMARY:Natation
+DESCRIPTION:Endurance 3x500m à allure 100m (~1'15) R: 45s
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250823
+SUMMARY:Course
+DESCRIPTION:Endurance 50 min à 70% FCM (~6'30/km)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250824
+SUMMARY:Natation
+DESCRIPTION:Technique 8x100m éducatifs (crawl, POLO, un bras) R: 30s
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250825
+SUMMARY:Course
+DESCRIPTION:Fractionné 8x400m à allure 10k (~5'30/km) R: 1'30
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250826
+SUMMARY:Vélo
+DESCRIPTION:Sortie longue 1h30 à 60-70% FTP
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250822
+SUMMARY:Renforcement/Mobilité quotidienne
+DESCRIPTION:Séance de renforcement musculaire + mobilité (20-30 min, gainage, jambes, dos, étirements)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250823
+SUMMARY:Renforcement/Mobilité quotidienne
+DESCRIPTION:Séance de renforcement musculaire + mobilité (20-30 min, gainage, jambes, dos, étirements)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250824
+SUMMARY:Renforcement/Mobilité quotidienne
+DESCRIPTION:Séance de renforcement musculaire + mobilité (20-30 min, gainage, jambes, dos, étirements)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250825
+SUMMARY:Renforcement/Mobilité quotidienne
+DESCRIPTION:Séance de renforcement musculaire + mobilité (20-30 min, gainage, jambes, dos, étirements)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250826
+SUMMARY:Renforcement/Mobilité quotidienne
+DESCRIPTION:Séance de renforcement musculaire + mobilité (20-30 min, gainage, jambes, dos, étirements)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250827
+SUMMARY:Renforcement/Mobilité quotidienne
+DESCRIPTION:Séance de renforcement musculaire + mobilité (20-30 min, gainage, jambes, dos, étirements)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250828
+SUMMARY:Renforcement/Mobilité quotidienne
+DESCRIPTION:Séance de renforcement musculaire + mobilité (20-30 min, gainage, jambes, dos, étirements)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250827
+SUMMARY:Natation
+DESCRIPTION:Endurance 3x500m à allure 100m (~1'15) R: 45s
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250828
+SUMMARY:Course
+DESCRIPTION:Endurance 50 min à 70% FCM (~6'30/km)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250829
+SUMMARY:Vélo
+DESCRIPTION:Sortie longue 1h30 à 60-70% FTP
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250830
+SUMMARY:Natation
+DESCRIPTION:Technique 8x100m éducatifs (crawl, POLO, un bras) R: 30s
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250831
+SUMMARY:Course
+DESCRIPTION:Fractionné 8x400m à allure 10k (~5'30/km) R: 1'30
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250827
+SUMMARY:Renforcement/Mobilité quotidienne
+DESCRIPTION:Séance de renforcement musculaire + mobilité (20-30 min, gainage, jambes, dos, étirements)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250828
+SUMMARY:Renforcement/Mobilité quotidienne
+DESCRIPTION:Séance de renforcement musculaire + mobilité (20-30 min, gainage, jambes, dos, étirements)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250829
+SUMMARY:Renforcement/Mobilité quotidienne
+DESCRIPTION:Séance de renforcement musculaire + mobilité (20-30 min, gainage, jambes, dos, étirements)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250830
+SUMMARY:Renforcement/Mobilité quotidienne
+DESCRIPTION:Séance de renforcement musculaire + mobilité (20-30 min, gainage, jambes, dos, étirements)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250831
+SUMMARY:Renforcement/Mobilité quotidienne
+DESCRIPTION:Séance de renforcement musculaire + mobilité (20-30 min, gainage, jambes, dos, étirements)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250901
+SUMMARY:Renforcement/Mobilité quotidienne
+DESCRIPTION:Séance de renforcement musculaire + mobilité (20-30 min, gainage, jambes, dos, étirements)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250902
+SUMMARY:Renforcement/Mobilité quotidienne
+DESCRIPTION:Séance de renforcement musculaire + mobilité (20-30 min, gainage, jambes, dos, étirements)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250901
+SUMMARY:Natation
+DESCRIPTION:Endurance 3x500m à allure 100m (~1'15) R: 45s
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250902
+SUMMARY:Course
+DESCRIPTION:Endurance 50 min à 70% FCM (~6'30/km)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250903
+SUMMARY:Vélo
+DESCRIPTION:Sortie longue 1h30 à 60-70% FTP
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250904
+SUMMARY:Natation
+DESCRIPTION:Technique 8x100m éducatifs (crawl, POLO, un bras) R: 30s
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250905
+SUMMARY:Course
+DESCRIPTION:Fractionné 8x400m à allure 10k (~5'30/km) R: 1'30
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250901
+SUMMARY:Renforcement/Mobilité quotidienne
+DESCRIPTION:Séance de renforcement musculaire + mobilité (20-30 min, gainage, jambes, dos, étirements)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250902
+SUMMARY:Renforcement/Mobilité quotidienne
+DESCRIPTION:Séance de renforcement musculaire + mobilité (20-30 min, gainage, jambes, dos, étirements)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250903
+SUMMARY:Renforcement/Mobilité quotidienne
+DESCRIPTION:Séance de renforcement musculaire + mobilité (20-30 min, gainage, jambes, dos, étirements)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250904
+SUMMARY:Renforcement/Mobilité quotidienne
+DESCRIPTION:Séance de renforcement musculaire + mobilité (20-30 min, gainage, jambes, dos, étirements)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250905
+SUMMARY:Renforcement/Mobilité quotidienne
+DESCRIPTION:Séance de renforcement musculaire + mobilité (20-30 min, gainage, jambes, dos, étirements)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250906
+SUMMARY:Renforcement/Mobilité quotidienne
+DESCRIPTION:Séance de renforcement musculaire + mobilité (20-30 min, gainage, jambes, dos, étirements)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250907
+SUMMARY:Renforcement/Mobilité quotidienne
+DESCRIPTION:Séance de renforcement musculaire + mobilité (20-30 min, gainage, jambes, dos, étirements)
+END:VEVENT
+
 END:VCALENDAR
