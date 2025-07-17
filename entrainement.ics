@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:20 min échauffement\n3x10 min à 85% FTP avec 5 min récup\n10 min retour au calme
+DURATION:PT1H
+DTSTART:20250720T180000Z
+SUMMARY:Séance vélo seuil
+UID:0cf64cf3-33ae-4859-b12a-31749604730e@0cf6.org
+END:VEVENT
+END:VCALENDAR
